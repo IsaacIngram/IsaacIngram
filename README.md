@@ -9,10 +9,12 @@ Lead Programmer - FTC Team 6042
 
 My GitHub contains personal projects as well as stuff for my robotics team.
 
-If you want to, you can visit [my website](https://isaacingram.dev) (currently undergoing a renovation and therefore not viewable).
-
 Contact
 ---
 Email: isaac@isaacingram.com
+
 Discord: Isaac#0002
+
 Twitter: isaacingram_
+
+If you want, you can visit [my website](https://isaacingram.dev) (currently undergoing a renovation and therefore not viewable).
