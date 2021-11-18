@@ -1,6 +1,11 @@
 Hello, I'm Isaac...
 =====
-And you have found my GitHub. I'm currently a senior and high school, and I am interested in software development. 
+And you have found my GitHub. I'm a senior in high school who likes software.
+
+Roles
+---
+Lead Programmer - FRC Team 5889
+Lead Programmer - FTC Team 6042
 
 My GitHub contains personal projects as well as stuff for my robotics team.
 
