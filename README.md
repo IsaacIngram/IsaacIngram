@@ -4,8 +4,9 @@ And you have found my GitHub. I'm a senior in high school who likes software.
 
 Roles
 ---
-Lead Programmer - FRC Team 5889
 Lead Programmer - FTC Team 6042
+
+Lead Programmer - FRC Team 5889
 
 My GitHub contains personal projects as well as stuff for my robotics team.
 
@@ -17,4 +18,4 @@ Discord: Isaac#0002
 
 Twitter: isaacingram_
 
-If you want, you can visit [my website](https://isaacingram.dev) (currently undergoing a renovation and therefore not viewable).
+If you want, you can visit [my website](https://isaacingram.dev).
