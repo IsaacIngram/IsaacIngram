@@ -1,19 +1,7 @@
-Hello, I'm Isaac...
+Hello, I'm Isaac
 =====
-And you have found my GitHub. I'm a senior in high school who likes software.
+I'm a freshman studying Computer Science at RIT. 
 
-Roles
----
-Captain & Lead Programmer FTC 6042 and FRC 5889
+My GitHub is mostly composed of work I have done for FRC team 5889 and FTC team 6042, but I'm working on more personal projects now that I actually have free time.
 
-My GitHub contains personal projects as well as stuff for my robotics team.
-
-Contact
----
-Email: isaac@isaacingram.com
-
-Discord: Isaac#0002
-
-Twitter: isaacingram_
-
-If you want, you can visit [my website](https://isaacingram.dev).
+[website](https://isaacingram.dev).
