@@ -1,7 +1,9 @@
 Hello, I'm Isaac
 =====
-I'm a freshman studying Computer Science at RIT. 
+I'm a Computer Science student at Rochester Institute of Technology.
 
-My GitHub is mostly composed of work I have done for FRC team 5889 and FTC team 6042, but I'm working on more personal projects now that I actually have free time.
+My GitHub contains personal projects, classwork, and code I wrote for my highschool robotics teams (FRC team 5889 and FTC team 6042).
+
+If you would like to get in touch with me, feel free to email me at me@isaacingram.dev. You can also find other ways to contact me in addition to my resume on my website.
 
 [website](https://isaacingram.dev)
